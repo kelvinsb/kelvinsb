@@ -47,5 +47,5 @@
 
 _______
 
-[![Kelvinsb stats](https://github-readme-stats.vercel.app/api?username=kelvinsb&count_private=true&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kelvinsb stats](https://github-readme-stats.vercel.app/api?username=kelvinsb&count_private=true&show_icons=true&theme=dracula&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsb&theme=dracula&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
