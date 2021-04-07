@@ -12,8 +12,8 @@
 <!-- - 📫 How to reach me: ... -->
 
 ## Links
-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-silva-miranda-b038b9167/)
-- [![portfolio](https://img.shields.io/badge/Portfolio-593D88?style=for-the-badge&logo=firefox)](https://kelvinsb.github.io/inicial/) 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-silva-miranda-b038b9167/)
+[![portfolio](https://img.shields.io/badge/Portfolio-593D88?style=for-the-badge&logo=firefox)](https://kelvinsb.github.io/inicial/) 
 
 ## Technologies, Tools & Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
